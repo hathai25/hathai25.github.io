@@ -6,21 +6,21 @@
         <description>Recent content in Categories on The Real Hathai</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hathai25.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hathai25.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Blog</title>
+        <link>https://hathai25.github.io/categories/blog/</link>
+        <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://hathai25.github.io/categories/blog/</guid>
+        <description>&lt;img src="https://hathai25.github.io/categories/blog/blog.jpg" alt="Featured image of post Blog" /&gt;</description>
+        </item>
+        <item>
         <title>Tutorials</title>
         <link>https://hathai25.github.io/categories/tutorials/</link>
         <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
         
         <guid>https://hathai25.github.io/categories/tutorials/</guid>
         <description>&lt;img src="https://hathai25.github.io/categories/tutorials/tutorial.jpg" alt="Featured image of post Tutorials" /&gt;</description>
-        </item>
-        <item>
-        <title>Blog</title>
-        <link>https://hathai25.github.io/categories/blog/</link>
-        <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://hathai25.github.io/categories/blog/</guid>
-        <description>&lt;img src="https://hathai25.github.io/categories/blog/blog.jpg" alt="Featured image of post Blog" /&gt;</description>
         </item>
         
     </channel>
