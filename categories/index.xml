@@ -6,7 +6,15 @@
         <description>Recent content in Categories on The Real Hathai</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hathai25.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hathai25.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Football</title>
+        <link>https://hathai25.github.io/categories/football/</link>
+        <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://hathai25.github.io/categories/football/</guid>
+        <description>&lt;img src="https://hathai25.github.io/categories/football/football.jpg" alt="Featured image of post Football" /&gt;</description>
+        </item>
+        <item>
         <title>Blog</title>
         <link>https://hathai25.github.io/categories/blog/</link>
         <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
