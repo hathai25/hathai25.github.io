@@ -5,7 +5,7 @@
         <link>https://hathai25.github.io/tags/uml/</link>
         <description>Recent content in UML on The Real Hathai</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
+        <language>en</language>
         <lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hathai25.github.io/tags/uml/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>UML: Use Case Diagram Tutorial</title>
         <link>https://hathai25.github.io/p/uml-use-case-diagram-tutorial/</link>
@@ -53,7 +53,7 @@
 &lt;p&gt;&lt;img src=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/actor.webp&#34;
 	width=&#34;676&#34;
 	height=&#34;308&#34;
-	srcset=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/actor_hu96ebaf5eef4e68da3d6972de43481a7e_7868_480x0_resize_q75_h2_box_2.webp 480w, https://hathai25.github.io/p/uml-use-case-diagram-tutorial/actor_hu96ebaf5eef4e68da3d6972de43481a7e_7868_1024x0_resize_q75_h2_box_2.webp 1024w&#34;
+	srcset=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/actor_hu12378382425589067789.webp 480w, https://hathai25.github.io/p/uml-use-case-diagram-tutorial/actor_hu807673484268472788.webp 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Actor in Use case diagram&#34;
@@ -93,7 +93,7 @@
 &lt;p&gt;&lt;img src=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/include.png&#34;
 	width=&#34;836&#34;
 	height=&#34;552&#34;
-	srcset=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/include_hu32c2c3706880cb48a21a2b5bc22ca426_20229_480x0_resize_box_3.png 480w, https://hathai25.github.io/p/uml-use-case-diagram-tutorial/include_hu32c2c3706880cb48a21a2b5bc22ca426_20229_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/include_hu14555247635961733947.png 480w, https://hathai25.github.io/p/uml-use-case-diagram-tutorial/include_hu3944489149254116599.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -110,7 +110,7 @@
 &lt;p&gt;&lt;img src=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/extend.png&#34;
 	width=&#34;957&#34;
 	height=&#34;717&#34;
-	srcset=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/extend_hu7b522c394d6179492e2f1334ca05bc8a_32292_480x0_resize_box_3.png 480w, https://hathai25.github.io/p/uml-use-case-diagram-tutorial/extend_hu7b522c394d6179492e2f1334ca05bc8a_32292_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/extend_hu7962221294301861027.png 480w, https://hathai25.github.io/p/uml-use-case-diagram-tutorial/extend_hu13708238270058146818.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -136,7 +136,7 @@
 &lt;p&gt;&lt;img src=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/generalization.png&#34;
 	width=&#34;1170&#34;
 	height=&#34;550&#34;
-	srcset=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/generalization_hu495aaa993a85acfe5fe1b8a1bef36bfa_42154_480x0_resize_box_3.png 480w, https://hathai25.github.io/p/uml-use-case-diagram-tutorial/generalization_hu495aaa993a85acfe5fe1b8a1bef36bfa_42154_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/generalization_hu12371285201575097771.png 480w, https://hathai25.github.io/p/uml-use-case-diagram-tutorial/generalization_hu676996171958288837.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -151,7 +151,7 @@
 &lt;p&gt;&lt;img src=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/firstDiagram.png&#34;
 	width=&#34;1645&#34;
 	height=&#34;982&#34;
-	srcset=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/firstDiagram_hudf7dc591a8cd942aebe185b257a892fa_116351_480x0_resize_box_3.png 480w, https://hathai25.github.io/p/uml-use-case-diagram-tutorial/firstDiagram_hudf7dc591a8cd942aebe185b257a892fa_116351_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://hathai25.github.io/p/uml-use-case-diagram-tutorial/firstDiagram_hu1917597273732658407.png 480w, https://hathai25.github.io/p/uml-use-case-diagram-tutorial/firstDiagram_hu15178943850780699027.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Dumb diagram&#34;
